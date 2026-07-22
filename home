@@ -1,0 +1,23 @@
+active-directory-red-team-report/
+├─ .github/
+│  ├─ workflows/
+│  │  └─ render-report.yml
+│  └─ ISSUE_TEMPLATE/
+│     └─ bug_report.md
+├─ docs/
+│  ├─ report.md
+│  ├─ figures/            # images extraites ou schémas
+│  └─ assets/             # scripts, wordlists sample (non sensibles)
+├─ scripts/
+│  ├─ build_pdf.sh        # optionnel : convertir Markdown en PDF
+│  └─ prepare_release.sh
+├─ remediation/
+│  ├─ remediation_plan.md
+│  └─ playbooks/
+│     ├─ kerberoast_mitigation.md
+│     ├─ delegation_hardening.md
+│     └─ krbtgt_rotation.md
+├─ README.md
+├─ CONTRIBUTING.md
+├─ LICENSE
+└─ .gitignore
