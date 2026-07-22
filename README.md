@@ -7,7 +7,7 @@ Rapport pédagogique et reproductible d’un audit Red Team Active Directory (la
 **Source**: Rapport d'audit GOAD (Active Directory Red Teaming)
 
 ## Objectif
-Ce dépôt contient la transcription, l'organisation et les artefacts du rapport d'audit Active Directory réalisé sur le lab GOAD. Il est structuré pour être lisible, réutilisable et servir de base pédagogique pour des équipes de sécurité.
+Ce dépôt contient la transcription, l'organisation et les artefacts du rapport d'audit Active Directory réalisé sur le lab Active Directory pentest. Il est structuré pour être lisible, réutilisable et servir de base pédagogique pour des équipes de sécurité.
 
 ## Contenu
 - `docs/report.md` : Rapport complet converti en Markdown (relecture et anonymisation nécessaires avant publication publique).
