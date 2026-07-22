@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Node / Python / etc
+node_modules/
+__pycache__/
+
+# Generated artifacts
+docs/report.pdf
+*.log
+
+# Secrets / dumps (never commit)
+*.ntds
+*.dmp
+*.pst
+secrets/
