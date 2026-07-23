@@ -1,8 +1,8 @@
-# Active Directory Red Team Report — GOAD Lab
+# Active Directory Red Team Report 
 
 **Auteur**: Libasse | INSA LYON - PENTEST/BLUE TEAM PROFIL
 **Type**: Projet pédagogique / laboratoire Red Team  
-**Objectif**: Documenter et reproduire un scénario complet d’attaque Active Directory dans un lab isolé (GOAD) : reconnaissance, exploitation Kerberos, élévation de privilèges, extraction NTDS et persistance. Le dépôt inclut le rapport converti en Markdown, commandes reproductibles et playbooks de remédiation.
+**Objectif**: Documenter et reproduire un scénario complet d’attaque Active Directory: reconnaissance, exploitation Kerberos, élévation de privilèges, extraction NTDS et persistance. Le dépôt inclut le rapport converti en Markdown, commandes reproductibles et playbooks de remédiation.
 
 > **Avertissement**: Les techniques documentées sont dangereuses et illégales hors d'un environnement autorisé. Ce dépôt est destiné à un usage pédagogique et doit rester dans un environnement contrôlé.
 
